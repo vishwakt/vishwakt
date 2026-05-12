@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">Vishwak</h1>
 <p align="center">
-  <b>Staff Full-Stack Engineer • Large-Scale Systems Architect • Cloud & Distributed Systems</b>
+  <b>AI Full-Stack Engineer • Large-Scale Systems Architect • Cloud & Distributed Systems</b>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Large-Scale+Systems+From+Scratch;Python+%7C+TypeScript+%7C+AWS+%7C+Distributed+Systems;Founding+Engineer+%E2%86%92+Series+A;" />
